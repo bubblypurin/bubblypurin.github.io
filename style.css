@@ -82,21 +82,3 @@ sub{
   margin-bottom: 5px;
 }
 
-aside {
-  flex-grow: 1;
-}
-
-.left { background-color: orange; }
-.right { background-color: purple; }
-
-main {
-  position: relative;
-  flex-grow: 5;
-  margin: 0 20px;
-  background-color:red;
-}
-div {
-  display: flex;
-  justify-content: space-between;
-  height: 1000px;
-}
