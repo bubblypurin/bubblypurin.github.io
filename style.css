@@ -5,8 +5,8 @@ header{
   background: url("https://wallpaperswise.com/wp-content/uploads/2019/07/dual-screen-wallpaper-14.jpg") no-repeat center; 
   background-size: 100% 100%;
   background-height: 400px; 
-  padding: 0;
-  margin: 0;
+  background-padding: 0;
+  background-margin: 0;
 }
 .top{
   font-size: 40px;
