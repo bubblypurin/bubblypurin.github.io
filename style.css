@@ -2,7 +2,6 @@ header{
   font-family: 'Abril Fatface', sans;
   font-weight: bold;
   color: #222;
-  width: 100%;
 }
 .top{
   font-size: 40px;
@@ -48,6 +47,7 @@ img.center {
   margin-left: auto;
   margin-right: auto;
   height: 400px;
+  width: 100%;
 }
 .body {
   padding: 0;
