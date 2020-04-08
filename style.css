@@ -57,6 +57,12 @@ blockquote{
   margin-left: 30%;
   margin-right: 30%;
 }
+.left {
+  padding: 0;
+  width: 20%;
+  margin-left: 0%;
+  background-color: red;
+}
 p {
   font-family: 'Josefin Sans', sans-serif;
 }
