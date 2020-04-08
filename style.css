@@ -81,3 +81,9 @@ sub{
   font-size: 20px;
   margin-bottom: 5px;
 }
+
+aside {
+  flex-grow: 1;
+}
+.left { background-color: orange; }
+.right { background-color: purple; }
